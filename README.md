@@ -50,6 +50,8 @@ gui hang man client
   -allows people to pick a word, keeps track of words picked in a que
 
   if no words in que then picks a word either from online or text file
+
+do I want a second message window for who guessed what or the same window with a server message explaining who guessed what letter
   
   
   
