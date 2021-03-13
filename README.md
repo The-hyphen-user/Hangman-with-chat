@@ -14,13 +14,13 @@ gui hang man client
 
   -makes a gui that allows your to connect to server
 
-    >when gui connects it loads game state
+  -when gui connects it loads game state
 
-    >requests and loads last 10 messages
+  -requests and loads last 10 messages
 
-    >allows for guesses on current hangman game
+  -allows for guesses on current hangman game
 
-    >allows you to type new messages to everyone
+  -allows you to type new messages to everyone
     
     
  less advanced:
